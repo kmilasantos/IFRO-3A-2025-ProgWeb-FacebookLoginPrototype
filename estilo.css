@@ -17,6 +17,6 @@ body{
 }
 
 .principal{
-    display: flex;
+    display: flex;g
     flex-wrap: nowrap;
 }
